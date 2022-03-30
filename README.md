@@ -41,7 +41,7 @@ It's basically a photoapp where we can upload photos and if you have objection w
   
 ## Demo
 
-https://youtu.be/GFqgjzeKCqA
+https://youtu.be/OnWZZXoJ_NA
 
 
 ## 🚀 About Me
