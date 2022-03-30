@@ -35,13 +35,13 @@ It's basically a photoapp where we can upload photos and if you have objection w
 
 (4) To run the flask app by runing this in cmd terminal
 ### flask run
-(4) Run the flask app & upload any image  by clicking "choose files" and "submit" buttons form your local files and to check the functionality of report button click on
+(4) Run the flask app & upload any image (size should be less(<100kb) for best results) by clicking "choose files" and "submit" buttons form your local files and to check the functionality of report button click on
   "instant report" .
 
   
 ## Demo
 
-
+https://youtu.be/GFqgjzeKCqA
 
 
 ## 🚀 About Me
