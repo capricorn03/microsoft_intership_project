@@ -42,8 +42,7 @@ It's basically a photoapp where we can upload photos and if you have objection w
   "instant report" .
 
   
-## Demo
-
+## Demo Url link
 https://youtu.be/OnWZZXoJ_NA
 
 
