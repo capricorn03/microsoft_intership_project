@@ -8,11 +8,11 @@ cyber crime related womens.
 
 It's basically a photoapp where we can upload photos and if you have objection with any photo about you uploaded by others user, you can instantly remove the photo by reporting through report button It simply recognize your face to verify it's you in that photo after verification, that photo remove automatically within a seconds.
 
-### Services used in project 
- ###Azure blob storage
- ###flask framework
- ###open cv library
- ###html and css
+## Services used in project 
+ ## Azure blob storage
+ ## flask framework
+ ## open cv library
+ ## html and css
 
 ## Installation
 (1) Create the Azure blob storage account on 
