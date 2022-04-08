@@ -10,9 +10,13 @@ It's basically a photoapp where we can upload photos and if you have objection w
 
 # Services used in project 
  ## Azure blob storage
+   :to store picture uploaded by user 
  ## flask framework
- ## open cv library
- ## html and css
+   :to make web app
+ ## open cv & face recognition library
+   :to scan and match faces
+ ## html and css:
+   :to customize web page
 
 ## Installation
 (1) Create the Azure blob storage account on 
