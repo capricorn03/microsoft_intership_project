@@ -51,7 +51,7 @@ https://youtu.be/OnWZZXoJ_NA
 
 
 ## 🚀 About Me
-I'm a self taught full stack web developer coding is my hobby.
+I'm a self taught full stack web developer & coding is my hobby.
 
 
 ## FAQ
