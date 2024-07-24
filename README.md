@@ -51,20 +51,3 @@ https://youtu.be/OnWZZXoJ_NA
 
 ## 🚀 About Me
 I'm a self taught full stack web developer & coding is my hobby.
-
-
-## FAQ
-
-#### Question 1
-Why are you not used Azure Face API or Coginative services in your project?
-
-#### Answer:
-Initially I tried to implement face api and cognitive services in my project, but due to some documentation issue (uses of face verification using stream of image of face api) and due to some functionality I want to use like verify-face using web cam and match with the give image become very difficult task for me to use Azure face api or cognitive services, that's why I'm forced to use opencv 
-and face recognition libraries.
-
-#### Question 2
-Why are you not deploying your web app on Azure using Azure web app services?
-#### Answer:
-
-I tried my best to deploy my flask web app, but every time I tried to deploy they give me the error in importing."Cmake libraries", "dlib libraries" that is important to install face recognition library
-on "Azure cloud", even I tried hard to deploy my web app on other cloud platforms also like "Heroku", but they give me the same error when it comes to installation of face recognition libraries.
