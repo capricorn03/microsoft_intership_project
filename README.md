@@ -47,7 +47,3 @@ It's basically a photoapp which is based on the concept where we can upload phot
   
 ## Demo Url link
 https://youtu.be/OnWZZXoJ_NA
-
-
-## 🚀 About Me
-I'm a self taught full stack web developer & coding is my hobby.
